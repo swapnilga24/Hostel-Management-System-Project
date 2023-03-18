@@ -1,4 +1,4 @@
-# HostelManagementSystem
+# Hostel Management System Project
 mini Project COEP
 
 An online hostel management system comprises of various features from account creation,hostel selection
